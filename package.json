@@ -1,0 +1,16 @@
+{
+  "name": "phantom-error-catcher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "0.9.0",
+    "log-symbols": "1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benweet/stackedit.git"
+  },
+  "author": "zhangtao07",
+  "license": "BSD"
+}
